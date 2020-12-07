@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Texturina:wght@300&display=swap");
+
+body {
+  font-family: "Texturina", serif;
+  color: beige;
+  background-color: slategray;
+}
+
+h1 {
+  font-size: 3cm;
+  position: relative;
+  text-align: center;
+}
+
+

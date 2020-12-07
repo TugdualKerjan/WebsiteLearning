@@ -1,0 +1,12 @@
+.logo rect {
+  transform-origin: 0 100%;
+}
+
+@keyframes flicker {
+  0% {
+    transform: scaleY(0.3) ;
+  }
+  100% {
+    transform: scaleY(0.99) ;
+  }
+}
